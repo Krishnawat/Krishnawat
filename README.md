@@ -6,7 +6,7 @@
 
 <img align="right" width="200px" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" />
 
-I’m a **BCA student @ AJU**, passionate about **web development** and preparing for **top tech companies** like Google & Meta by 2026.  
+I’m a **BCA student**, passionate about **web development** and preparing for **top tech companies** like Google & Meta by 2026.  
 I’m currently working on **JavaScript**, **React**, and real-world **full-stack apps**.  
 I love **clean UI/UX**, building smart tools, and improving productivity through tech.  
 
