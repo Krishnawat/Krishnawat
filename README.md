@@ -1,5 +1,5 @@
 <img src="https://www.gifs.cc/line-animated-birds-wire.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">ALX-13</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b> Aditya <img src="https://camo.githubusercontent.com/f29e9211190694d2eea4e08cb2df14e99bcdfef9356215de868b68359305f294/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
