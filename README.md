@@ -27,8 +27,8 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <div align="center">
   <a href="mailto:sudo.adyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/krishnawat/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/Kriishnawat"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40px"" /></a>
-  <a href="https://x.com/krishnawattt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/Kriishnawat"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40px"/></a>
+  <a href="https://x.com/krishnawattt"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif width="40px" /></a>
  <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
 </div>
 
