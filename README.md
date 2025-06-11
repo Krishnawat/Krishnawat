@@ -39,10 +39,9 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+<img align="right" width=310px alt="Meow" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlwN3NuNWp5eWFucDhoZ2N4N2dvbGx5MHFubnVrM3I5dzRhcXNyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jAzS2VUgF0yq6UBu7l/giphy.gif"/>
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
