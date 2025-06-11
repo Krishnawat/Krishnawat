@@ -6,14 +6,14 @@
 
 <img align="right" width=200px alt="Us" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVvbzdtY2RzMDhteWxxZDBzOWl4eWdpaDJzMXA2Y2Q2bXFmMGthYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6iBJ8I2x9Rkmk/giphy.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
-  - *Angular*
-  - *TypeScript*
+  - *BackEnd*
+  - *TailwindCSS*
 - 🚀 I’m eager to join new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
-- 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
+- 💁 I'm also helping offline businesses go obline with my Freelance work.  
+- Apart from coding hell i also loveee playing video games 🎮 and video editing 🎬
+- 📫 Reach out to me at: <a href="sudo.adyy@gmail.com">sudo.adyy@gmail.com</a>
 <br>
 
 <!-- Profile Trophies -->
