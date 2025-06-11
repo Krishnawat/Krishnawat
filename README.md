@@ -4,7 +4,7 @@
 
 <img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Us" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVvbzdtY2RzMDhteWxxZDBzOWl4eWdpaDJzMXA2Y2Q2bXFmMGthYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6iBJ8I2x9Rkmk/giphy.gif"/>
 
 I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
