@@ -71,3 +71,4 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<p align="center"> <img src="https://statify-hub-6zaa.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IktyaXNobmF3YXQiLCJwcmltYXJ5Q29sb3IiOiIjYWE2NDY0Iiwic2Vjb25kYXJ5Q29sb3IiOiIjNzA3MGRjZmYiLCJ0ZXh0Q29sb3IiOiIjZmZmZmZmIiwidGVtcGxhdGUiOjMsInN0YXRzIjpbInB1YmxpY19yZXBvcyIsImZvbGxvd2VycyIsImZvbGxvd2luZyIsInB1YmxpY19naXN0cyJdLCJ0aW1lc3RhbXAiOjE3NTY1OTgzMDEwNjF9" /> </p>
