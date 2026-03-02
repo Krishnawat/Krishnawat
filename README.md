@@ -16,18 +16,11 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 - 📫 Reach out to me at: <a href="sudo.adyy@gmail.com">sudo.adyy@gmail.com</a>
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Krishnawat&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:sudo.adyy@gmail.com"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6dzcweXdiamZpd3Z1ZTJrY2l5ejNmYXV1dHQ3azF1ZDNsdnp4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KxlbRn0HuTW7gZID83/giphy.gif" width="40px" /></a>
+  <a href="mailto:adityakrishnawat@gmail.com"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6dzcweXdiamZpd3Z1ZTJrY2l5ejNmYXV1dHQ3azF1ZDNsdnp4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KxlbRn0HuTW7gZID83/giphy.gif" width="40px" /></a>
   <a href="https://www.linkedin.com/in/krishnawat/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40px" /></a>
-  <a href="https://www.instagram.com/Kriishnawat"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40px"/></a>
+  <a href="https://www.instagram.com/krisnaw4t"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40px"/></a>
   <a href="https://x.com/krishnawattt"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="40px" /></a>
  <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
 </div>
